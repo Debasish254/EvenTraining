@@ -1,2 +1,2 @@
 # EvenTraining
-Logic Building Class
+Logic Building Class(NIT)
