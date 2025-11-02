@@ -1,10 +1,10 @@
 import java.util.Scanner;
 public class LCM{
     public static void main(String[]args){
-        Scanner Sc=new Scanner(System.in);
+        Scanner sc=new Scanner(System.in);
         System.out.println("Enter the Two value");
-        int a=Sc.nextInt();
-        int b=Sc.nextInt();
+        int a=sc.nextInt();
+        int b=sc.nextInt();
         int max=(a>b)?a:b;
         while(true){
             if(max%a==0 && max%b==0)

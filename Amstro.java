@@ -1,9 +1,9 @@
 import java.util.Scanner;
 public class Amstro{
     public static void main(String[]args){
-        Scanner Sc=new Scanner(System.in);
+        Scanner sc=new Scanner(System.in);
         System.out.println("Enter the Number");
-        int Num=Sc.nextInt();
+        int Num=sc.nextInt();
         int orginal=Num;
         int count=0;
         int sum=0;
